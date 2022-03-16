@@ -7,6 +7,6 @@ console.log(randomNumber)
 
 What does Math.random() do?
 
-Your answer: 
+Your answer: gives you a random number between 0.000 and .999999
 
 */
